@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.575,
+  "log_loss": 0.939,
+  "ece": 0.049,
+  "teams_analyzed": 204,
+  "total_matches": 49288,
+  "confederations": 6,
+  "train_size": 39430,
+  "test_size": 9858
+}

@@ -1,0 +1,31 @@
+{
+  "step1_train_vs_test": {
+    "slope_train": -0.003651435668501817,
+    "slope_val": 0.2986193752047356,
+    "slope_test": -0.08614991902126504,
+    "pattern": "LABEL_LEAKAGE_OR_SPURIOUS",
+    "explanation": "Pendiente negativa en train Y test - Label leakage o feature espuria"
+  },
+  "step2_temporal_stability": {
+    "slope_first_half": -0.2313430404308914,
+    "slope_second_half": -0.001482506765033176,
+    "slope_difference": 0.22986053366585824,
+    "pattern": "TEMPORAL_DRIFT",
+    "explanation": "La inversi\u00f3n empeora con el tiempo - Drift/overfitting temporal"
+  },
+  "step3_feature_importance": {
+    "feature_importance_draw": {
+      "elo_diff": 0.02735197265882483,
+      "form_home": 0.017551684235792453,
+      "form_away": 0.0009358460121784429,
+      "h2h": 0.015709697714455184,
+      "neutral": -0.0004599519776669059
+    },
+    "most_important_feature": "elo_diff",
+    "pattern": "ADEQUATE_FEATURES",
+    "explanation": "Features tienen impacto adecuado - El problema no es de insuficiencia"
+  },
+  "root_cause": "LABEL_LEAKAGE_OR_SPURIOUS",
+  "recommended_action": "Eliminar feature espuria + reentrenar desde cero",
+  "diagnostic_date": "2026-05-24T01:17:48.013245"
+}

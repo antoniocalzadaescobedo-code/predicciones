@@ -1,0 +1,191 @@
+{
+  "export_date": "2026-05-21T17:36:55.146929",
+  "modelo": "GBM_Calibrado_v1_ES",
+  "total_predicciones": 8,
+  "predicciones": [
+    {
+      "date": "2026-05-24",
+      "home": "Portugal",
+      "away": "Siria",
+      "venue": "Lisboa",
+      "neutral": false,
+      "motivation": 0.88,
+      "teams": {
+        "home": "Portugal",
+        "away": "Siria"
+      },
+      "prediction": {
+        "outcome": "home_win",
+        "confidence": 0.5626974642941207
+      },
+      "probabilities": {
+        "away_win": 0.2539402898389672,
+        "draw": 0.14336224586691207,
+        "home_win": 0.6026974642941207
+      },
+      "match_type": "friendly",
+      "prediccion_es": "V. Local"
+    },
+    {
+      "date": "2026-05-24",
+      "home": "España",
+      "away": "Andorra",
+      "venue": "Madrid",
+      "neutral": false,
+      "motivation": 0.85,
+      "teams": {
+        "home": "España",
+        "away": "Andorra"
+      },
+      "prediction": {
+        "outcome": "home_win",
+        "confidence": 0.6179169501479596
+      },
+      "probabilities": {
+        "away_win": 0.2049846433478266,
+        "draw": 0.12709840650421378,
+        "home_win": 0.6679169501479596
+      },
+      "match_type": "friendly",
+      "prediccion_es": "V. Local"
+    },
+    {
+      "date": "2026-05-25",
+      "home": "Argentina",
+      "away": "Guatemala",
+      "venue": "Buenos Aires",
+      "neutral": false,
+      "motivation": 0.9,
+      "teams": {
+        "home": "Argentina",
+        "away": "Guatemala"
+      },
+      "prediction": {
+        "outcome": "home_win",
+        "confidence": 0.5446661548400186
+      },
+      "probabilities": {
+        "away_win": 0.23209085961460144,
+        "draw": 0.18990965221204661,
+        "home_win": 0.5779994881733519
+      },
+      "match_type": "friendly",
+      "prediccion_es": "V. Local"
+    },
+    {
+      "date": "2026-05-25",
+      "home": "México",
+      "away": "Ecuador",
+      "venue": "Ciudad de México",
+      "neutral": false,
+      "motivation": 0.88,
+      "teams": {
+        "home": "México",
+        "away": "Ecuador"
+      },
+      "prediction": {
+        "outcome": "home_win",
+        "confidence": 0.5649882241117068
+      },
+      "probabilities": {
+        "away_win": 0.22319018943334362,
+        "draw": 0.17182158645494963,
+        "home_win": 0.6049882241117068
+      },
+      "match_type": "friendly",
+      "prediccion_es": "V. Local"
+    },
+    {
+      "date": "2026-05-26",
+      "home": "Japón",
+      "away": "Paraguay",
+      "venue": "Tokio",
+      "neutral": false,
+      "motivation": 0.87,
+      "teams": {
+        "home": "Japón",
+        "away": "Paraguay"
+      },
+      "prediction": {
+        "outcome": "home_win",
+        "confidence": 0.5046892806019235
+      },
+      "probabilities": {
+        "away_win": 0.27371885542258456,
+        "draw": 0.17825853064215857,
+        "home_win": 0.5480226139352569
+      },
+      "match_type": "friendly",
+      "prediccion_es": "V. Local"
+    },
+    {
+      "date": "2026-05-26",
+      "home": "Marruecos",
+      "away": "Uganda",
+      "venue": "Rabat",
+      "neutral": false,
+      "motivation": 0.86,
+      "teams": {
+        "home": "Marruecos",
+        "away": "Uganda"
+      },
+      "prediction": {
+        "outcome": "home_win",
+        "confidence": 0.6178471058480418
+      },
+      "probabilities": {
+        "away_win": 0.17416469777847418,
+        "draw": 0.16132152970681735,
+        "home_win": 0.6645137725147084
+      },
+      "match_type": "friendly",
+      "prediccion_es": "V. Local"
+    },
+    {
+      "date": "2026-05-27",
+      "home": "Brasil",
+      "away": "Corea del Sur",
+      "venue": "Londres",
+      "neutral": true,
+      "motivation": 0.92,
+      "teams": {
+        "home": "Brasil",
+        "away": "Corea del Sur"
+      },
+      "prediction": {
+        "outcome": "home_win",
+        "confidence": 0.5487106101408292
+      },
+      "probabilities": {
+        "away_win": 0.20271602161371094,
+        "draw": 0.2219067015787932,
+        "home_win": 0.5753772768074958
+      },
+      "match_type": "friendly",
+      "prediccion_es": "V. Local"
+    },
+    {
+      "date": "2026-05-27",
+      "home": "Francia",
+      "away": "Canadá",
+      "venue": "Saint-Denis",
+      "neutral": false,
+      "motivation": 0.9,
+      "teams": {
+        "home": "Francia",
+        "away": "Canadá"
+      },
+      "prediction": {
+        "outcome": "home_win",
+        "confidence": 0.45357300800505984
+      },
+      "probabilities": {
+        "away_win": 0.33657400109635205,
+        "draw": 0.17651965756525476,
+        "home_win": 0.48690634133839317
+      },
+      "match_type": "friendly",
+      "prediccion_es": "V. Local"
+    }
+  ]
+}

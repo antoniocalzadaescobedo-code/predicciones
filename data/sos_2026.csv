@@ -1,0 +1,49 @@
+Team,Confederation,ELO,SOS_Score,Delta_ELO,Delta_Schedule,Games_Played_vs_Top100,Status
+Paraguay,CONMEBOL,1833,0.146,0.080,0.148,18,Qualified
+Uruguay,CONMEBOL,1892,0.149,-0.001,0.140,18,Qualified
+Ecuador,CONMEBOL,1933,0.151,0.017,0.209,18,Qualified
+Colombia,CONMEBOL,1975,0.153,-0.113,0.130,18,Qualified
+Brazil,CONMEBOL,1984,0.153,-0.124,0.129,18,Qualified
+Argentina,CONMEBOL,2113,0.157,-0.091,0.304,18,Qualified
+Sweden,UEFA,1719,0.189,-0.064,-0.140,8,Qualified
+Switzerland,UEFA,1889,0.229,0.079,0.232,6,Qualified
+Scotland,UEFA,1767,0.259,0.198,0.189,6,Qualified
+Turkiye,UEFA,1902,0.281,0.144,0.260,8,Qualified
+Spain,UEFA,2165,0.306,-0.015,0.310,6,Qualified
+Portugal,UEFA,1984,0.385,-0.231,0.017,4,Qualified
+Germany,UEFA,1923,0.407,-0.018,0.117,6,Qualified
+France,UEFA,2082,0.431,-0.056,0.236,4,Qualified
+Bosnia & Herzegovina,UEFA,1610,0.475,0.211,0.002,6,Qualified
+Norway,UEFA,1912,0.486,0.330,0.503,4,Qualified
+Czech Republic,UEFA,1726,0.491,-0.015,-0.015,10,Qualified
+Saudi Arabia,AFC,1568,0.528,-0.111,-0.341,11,Qualified
+England,UEFA,2020,0.539,0.171,0.451,4,Qualified
+Iraq,AFC,1607,0.542,0.104,-0.109,12,Qualified
+Belgium,UEFA,1866,0.546,-0.135,-0.044,6,Qualified
+Netherlands,UEFA,1961,0.560,-0.166,0.026,4,Qualified
+DR Congo,CAF,1655,0.560,0.168,0.022,5,Qualified
+Jordan,AFC,1690,0.561,-0.042,-0.143,10,Qualified
+South Korea,AFC,1752,0.570,-0.063,-0.087,10,Qualified
+Uzbekistan,AFC,1727,0.575,-0.129,-0.186,8,Qualified
+Japan,AFC,1904,0.582,-0.082,0.023,10,Qualified
+Iran,AFC,1760,0.582,-0.109,-0.127,8,Qualified
+Australia,AFC,1783,0.584,-0.189,-0.182,10,Qualified
+Qatar,AFC,1425,0.591,0.202,-0.221,8,Qualified
+Austria,UEFA,1827,0.602,-0.152,-0.089,4,Qualified
+Croatia,UEFA,1930,0.603,0.001,0.145,4,Qualified
+South Africa,CAF,1524,0.607,0.281,-0.007,4,Qualified
+Cape Verde,CAF,1549,0.639,0.124,-0.158,6,Qualified
+Haiti,CONCACAF,1532,0.640,-0.081,-0.402,5,Qualified
+Senegal,CAF,1879,0.668,-0.086,0.042,2,Qualified
+Panama,CONCACAF,1737,0.696,-0.290,-0.324,4,Qualified
+Algeria,CAF,1743,0.723,-0.636,-0.663,2,Qualified
+Ghana,CAF,1505,0.724,0.172,-0.201,2,Qualified
+Morocco,CAF,1821,0.729,-0.015,-0.015,8,Qualified
+Curacao,CONCACAF,1436,0.732,0.458,0.008,3,Qualified
+Ivory Coast,CAF,1676,0.739,0.041,-0.038,4,Qualified
+Egypt,CAF,1689,0.742,-0.009,-0.108,2,Qualified
+Tunisia,CAF,1636,0.796,-0.015,-0.015,10,Qualified
+New Zealand,OFC,1585,0.887,-0.015,-0.015,5,Qualified
+Canada,CONCACAF,1784,,,,0,Host
+Mexico,CONCACAF,1858,,,,0,Host
+United States,CONCACAF,1721,,,,0,Host

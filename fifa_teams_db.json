@@ -1,0 +1,1634 @@
+[
+  {
+    "team_name": "Argentina",
+    "iso_code": "ARG",
+    "elo_rating": 1855.2,
+    "confederation": "CONMEBOL",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Brasil",
+    "iso_code": "BRA",
+    "elo_rating": 1842.8,
+    "confederation": "CONMEBOL",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Uruguay",
+    "iso_code": "URU",
+    "elo_rating": 1798.5,
+    "confederation": "CONMEBOL",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Colombia",
+    "iso_code": "COL",
+    "elo_rating": 1785.1,
+    "confederation": "CONMEBOL",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Ecuador",
+    "iso_code": "ECU",
+    "elo_rating": 1742.3,
+    "confederation": "CONMEBOL",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Paraguay",
+    "iso_code": "PAR",
+    "elo_rating": 1698.7,
+    "confederation": "CONMEBOL",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Chile",
+    "iso_code": "CHI",
+    "elo_rating": 1685.4,
+    "confederation": "CONMEBOL",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Perú",
+    "iso_code": "PER",
+    "elo_rating": 1672.9,
+    "confederation": "CONMEBOL",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Venezuela",
+    "iso_code": "VEN",
+    "elo_rating": 1645.2,
+    "confederation": "CONMEBOL",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Bolivia",
+    "iso_code": "BOL",
+    "elo_rating": 1512.8,
+    "confederation": "CONMEBOL",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Francia",
+    "iso_code": "FRA",
+    "elo_rating": 1848.6,
+    "confederation": "UEFA",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "España",
+    "iso_code": "ESP",
+    "elo_rating": 1835.4,
+    "confederation": "UEFA",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Inglaterra",
+    "iso_code": "ENG",
+    "elo_rating": 1828.9,
+    "confederation": "UEFA",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Portugal",
+    "iso_code": "POR",
+    "elo_rating": 1815.7,
+    "confederation": "UEFA",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Alemania",
+    "iso_code": "GER",
+    "elo_rating": 1808.3,
+    "confederation": "UEFA",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Países Bajos",
+    "iso_code": "NED",
+    "elo_rating": 1795.1,
+    "confederation": "UEFA",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Bélgica",
+    "iso_code": "BEL",
+    "elo_rating": 1782.6,
+    "confederation": "UEFA",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Italia",
+    "iso_code": "ITA",
+    "elo_rating": 1775.8,
+    "confederation": "UEFA",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Croacia",
+    "iso_code": "CRO",
+    "elo_rating": 1758.4,
+    "confederation": "UEFA",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Dinamarca",
+    "iso_code": "DEN",
+    "elo_rating": 1745.2,
+    "confederation": "UEFA",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Suiza",
+    "iso_code": "SUI",
+    "elo_rating": 1738.9,
+    "confederation": "UEFA",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Serbia",
+    "iso_code": "SRB",
+    "elo_rating": 1725.3,
+    "confederation": "UEFA",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Polonia",
+    "iso_code": "POL",
+    "elo_rating": 1712.7,
+    "confederation": "UEFA",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Ucrania",
+    "iso_code": "UKR",
+    "elo_rating": 1698.5,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Austria",
+    "iso_code": "AUT",
+    "elo_rating": 1692.1,
+    "confederation": "UEFA",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Hungría",
+    "iso_code": "HUN",
+    "elo_rating": 1685.8,
+    "confederation": "UEFA",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "República Checa",
+    "iso_code": "CZE",
+    "elo_rating": 1678.4,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Escocia",
+    "iso_code": "SCO",
+    "elo_rating": 1672.9,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Turquía",
+    "iso_code": "TUR",
+    "elo_rating": 1665.3,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Suecia",
+    "iso_code": "SWE",
+    "elo_rating": 1658.7,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Gales",
+    "iso_code": "WAL",
+    "elo_rating": 1645.2,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Noruega",
+    "iso_code": "NOR",
+    "elo_rating": 1638.6,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Rumania",
+    "iso_code": "ROU",
+    "elo_rating": 1625.4,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Grecia",
+    "iso_code": "GRE",
+    "elo_rating": 1618.9,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Eslovaquia",
+    "iso_code": "SVK",
+    "elo_rating": 1612.3,
+    "confederation": "UEFA",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Irlanda",
+    "iso_code": "IRL",
+    "elo_rating": 1598.7,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Finlandia",
+    "iso_code": "FIN",
+    "elo_rating": 1585.2,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Bulgaria",
+    "iso_code": "BUL",
+    "elo_rating": 1572.8,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Irlanda del Norte",
+    "iso_code": "NIR",
+    "elo_rating": 1565.4,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Islandia",
+    "iso_code": "ISL",
+    "elo_rating": 1558.9,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Bosnia y Herzegovina",
+    "iso_code": "BIH",
+    "elo_rating": 1545.3,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Albania",
+    "iso_code": "ALB",
+    "elo_rating": 1538.7,
+    "confederation": "UEFA",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Montenegro",
+    "iso_code": "MNE",
+    "elo_rating": 1525.2,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Eslovenia",
+    "iso_code": "SVN",
+    "elo_rating": 1518.6,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Macedonia del Norte",
+    "iso_code": "MKD",
+    "elo_rating": 1505.4,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Georgia",
+    "iso_code": "GEO",
+    "elo_rating": 1498.9,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Luxemburgo",
+    "iso_code": "LUX",
+    "elo_rating": 1485.3,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Armenia",
+    "iso_code": "ARM",
+    "elo_rating": 1472.7,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Kosovo",
+    "iso_code": "KOS",
+    "elo_rating": 1465.2,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Chipre",
+    "iso_code": "CYP",
+    "elo_rating": 1452.8,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Azerbaiyán",
+    "iso_code": "AZE",
+    "elo_rating": 1445.4,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Bielorrusia",
+    "iso_code": "BLR",
+    "elo_rating": 1432.9,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Kazajistán",
+    "iso_code": "KAZ",
+    "elo_rating": 1425.3,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Islas Feroe",
+    "iso_code": "FRO",
+    "elo_rating": 1412.7,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Moldavia",
+    "iso_code": "MDA",
+    "elo_rating": 1405.2,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Estonia",
+    "iso_code": "EST",
+    "elo_rating": 1392.8,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Letonia",
+    "iso_code": "LVA",
+    "elo_rating": 1385.4,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Lituania",
+    "iso_code": "LTU",
+    "elo_rating": 1372.9,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Malta",
+    "iso_code": "MLT",
+    "elo_rating": 1358.3,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Andorra",
+    "iso_code": "AND",
+    "elo_rating": 1325.7,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Liechtenstein",
+    "iso_code": "LIE",
+    "elo_rating": 1298.2,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Gibraltar",
+    "iso_code": "GIB",
+    "elo_rating": 1285.6,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "San Marino",
+    "iso_code": "SMR",
+    "elo_rating": 1212.4,
+    "confederation": "UEFA",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "México",
+    "iso_code": "MEX",
+    "elo_rating": 1758.9,
+    "confederation": "CONCACAF",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Estados Unidos",
+    "iso_code": "USA",
+    "elo_rating": 1745.3,
+    "confederation": "CONCACAF",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Canadá",
+    "iso_code": "CAN",
+    "elo_rating": 1732.7,
+    "confederation": "CONCACAF",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Panamá",
+    "iso_code": "PAN",
+    "elo_rating": 1685.2,
+    "confederation": "CONCACAF",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Costa Rica",
+    "iso_code": "CRC",
+    "elo_rating": 1672.8,
+    "confederation": "CONCACAF",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Jamaica",
+    "iso_code": "JAM",
+    "elo_rating": 1658.4,
+    "confederation": "CONCACAF",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Honduras",
+    "iso_code": "HON",
+    "elo_rating": 1625.9,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "El Salvador",
+    "iso_code": "SLV",
+    "elo_rating": 1598.3,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Guatemala",
+    "iso_code": "GUA",
+    "elo_rating": 1585.7,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Trinidad y Tobago",
+    "iso_code": "TRI",
+    "elo_rating": 1572.2,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Haití",
+    "iso_code": "HAI",
+    "elo_rating": 1545.8,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Cuba",
+    "iso_code": "CUB",
+    "elo_rating": 1512.4,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Curazao",
+    "iso_code": "CUW",
+    "elo_rating": 1498.9,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Nicaragua",
+    "iso_code": "NCA",
+    "elo_rating": 1485.3,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "República Dominicana",
+    "iso_code": "DOM",
+    "elo_rating": 1472.7,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Surinam",
+    "iso_code": "SUR",
+    "elo_rating": 1458.2,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Guayana Francesa",
+    "iso_code": "GUF",
+    "elo_rating": 1425.6,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Belice",
+    "iso_code": "BLZ",
+    "elo_rating": 1398.4,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Antigua y Barbuda",
+    "iso_code": "ATG",
+    "elo_rating": 1385.9,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "San Cristóbal y Nieves",
+    "iso_code": "SKN",
+    "elo_rating": 1372.3,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Barbados",
+    "iso_code": "BRB",
+    "elo_rating": 1358.7,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Granada",
+    "iso_code": "GRN",
+    "elo_rating": 1345.2,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "San Vicente y las Granadinas",
+    "iso_code": "VCT",
+    "elo_rating": 1332.8,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Dominica",
+    "iso_code": "DMA",
+    "elo_rating": 1318.4,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Islas Vírgenes de EE.UU.",
+    "iso_code": "VIR",
+    "elo_rating": 1285.9,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Islas Vírgenes Británicas",
+    "iso_code": "VGB",
+    "elo_rating": 1272.3,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Anguila",
+    "iso_code": "AIA",
+    "elo_rating": 1245.7,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Montserrat",
+    "iso_code": "MSR",
+    "elo_rating": 1212.2,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Turcas y Caicos",
+    "iso_code": "TCA",
+    "elo_rating": 1198.6,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Bermudas",
+    "iso_code": "BER",
+    "elo_rating": 1485.4,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Puerto Rico",
+    "iso_code": "PUR",
+    "elo_rating": 1425.8,
+    "confederation": "CONCACAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Japón",
+    "iso_code": "JPN",
+    "elo_rating": 1765.4,
+    "confederation": "AFC",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Corea del Sur",
+    "iso_code": "KOR",
+    "elo_rating": 1752.8,
+    "confederation": "AFC",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Irán",
+    "iso_code": "IRN",
+    "elo_rating": 1745.3,
+    "confederation": "AFC",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Australia",
+    "iso_code": "AUS",
+    "elo_rating": 1732.7,
+    "confederation": "AFC",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Arabia Saudita",
+    "iso_code": "KSA",
+    "elo_rating": 1718.2,
+    "confederation": "AFC",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Qatar",
+    "iso_code": "QAT",
+    "elo_rating": 1705.6,
+    "confederation": "AFC",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Irak",
+    "iso_code": "IRQ",
+    "elo_rating": 1685.4,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Emiratos Árabes",
+    "iso_code": "UAE",
+    "elo_rating": 1672.9,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Uzbekistán",
+    "iso_code": "UZB",
+    "elo_rating": 1658.3,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "China",
+    "iso_code": "CHN",
+    "elo_rating": 1645.7,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Omán",
+    "iso_code": "OMA",
+    "elo_rating": 1632.2,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Jordania",
+    "iso_code": "JOR",
+    "elo_rating": 1618.8,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Bahréin",
+    "iso_code": "BHR",
+    "elo_rating": 1605.4,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Siria",
+    "iso_code": "SYR",
+    "elo_rating": 1592.9,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Palestina",
+    "iso_code": "PLE",
+    "elo_rating": 1578.3,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Líbano",
+    "iso_code": "LBN",
+    "elo_rating": 1565.7,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "India",
+    "iso_code": "IND",
+    "elo_rating": 1552.2,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Tailandia",
+    "iso_code": "THA",
+    "elo_rating": 1538.8,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Vietnam",
+    "iso_code": "VIE",
+    "elo_rating": 1525.4,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Kirguistán",
+    "iso_code": "KGZ",
+    "elo_rating": 1512.9,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Filipinas",
+    "iso_code": "PHI",
+    "elo_rating": 1498.3,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Malasia",
+    "iso_code": "MAS",
+    "elo_rating": 1485.7,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Indonesia",
+    "iso_code": "IDN",
+    "elo_rating": 1472.2,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Singapur",
+    "iso_code": "SIN",
+    "elo_rating": 1458.8,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Turkmenistán",
+    "iso_code": "TKM",
+    "elo_rating": 1445.4,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Tayikistán",
+    "iso_code": "TJK",
+    "elo_rating": 1432.9,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Hong Kong",
+    "iso_code": "HKG",
+    "elo_rating": 1418.3,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Yemen",
+    "iso_code": "YEM",
+    "elo_rating": 1405.7,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Afganistán",
+    "iso_code": "AFG",
+    "elo_rating": 1392.2,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Myanmar",
+    "iso_code": "MYA",
+    "elo_rating": 1378.8,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Camboya",
+    "iso_code": "CAM",
+    "elo_rating": 1365.4,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Laos",
+    "iso_code": "LAO",
+    "elo_rating": 1352.9,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Macao",
+    "iso_code": "MAC",
+    "elo_rating": 1338.3,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Mongolia",
+    "iso_code": "MNG",
+    "elo_rating": 1325.7,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Bután",
+    "iso_code": "BHU",
+    "elo_rating": 1298.2,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Brunéi",
+    "iso_code": "BRU",
+    "elo_rating": 1285.6,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Timor-Leste",
+    "iso_code": "TLS",
+    "elo_rating": 1272.4,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Pakistán",
+    "iso_code": "PAK",
+    "elo_rating": 1312.8,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Nepal",
+    "iso_code": "NEP",
+    "elo_rating": 1345.3,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Bangladés",
+    "iso_code": "BAN",
+    "elo_rating": 1385.9,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Maldivas",
+    "iso_code": "MDV",
+    "elo_rating": 1398.4,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Sri Lanka",
+    "iso_code": "SRI",
+    "elo_rating": 1372.7,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Guam",
+    "iso_code": "GUM",
+    "elo_rating": 1258.3,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Islas Marianas del Norte",
+    "iso_code": "NMI",
+    "elo_rating": 1245.7,
+    "confederation": "AFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Marruecos",
+    "iso_code": "MAR",
+    "elo_rating": 1742.6,
+    "confederation": "CAF",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Senegal",
+    "iso_code": "SEN",
+    "elo_rating": 1728.4,
+    "confederation": "CAF",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Nigeria",
+    "iso_code": "NGA",
+    "elo_rating": 1715.9,
+    "confederation": "CAF",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Egipto",
+    "iso_code": "EGY",
+    "elo_rating": 1702.3,
+    "confederation": "CAF",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Túnez",
+    "iso_code": "TUN",
+    "elo_rating": 1688.7,
+    "confederation": "CAF",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Argelia",
+    "iso_code": "ALG",
+    "elo_rating": 1675.2,
+    "confederation": "CAF",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Camerún",
+    "iso_code": "CMR",
+    "elo_rating": 1662.8,
+    "confederation": "CAF",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Costa de Marfil",
+    "iso_code": "CIV",
+    "elo_rating": 1648.4,
+    "confederation": "CAF",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Ghana",
+    "iso_code": "GHA",
+    "elo_rating": 1635.9,
+    "confederation": "CAF",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Malí",
+    "iso_code": "MLI",
+    "elo_rating": 1622.3,
+    "confederation": "CAF",
+    "wc_qualified": true,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Burkina Faso",
+    "iso_code": "BFA",
+    "elo_rating": 1608.7,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Sudáfrica",
+    "iso_code": "RSA",
+    "elo_rating": 1595.2,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Cabo Verde",
+    "iso_code": "CPV",
+    "elo_rating": 1582.8,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Guinea",
+    "iso_code": "GUI",
+    "elo_rating": 1568.4,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Zambia",
+    "iso_code": "ZAM",
+    "elo_rating": 1555.9,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Uganda",
+    "iso_code": "UGA",
+    "elo_rating": 1542.3,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Gabón",
+    "iso_code": "GAB",
+    "elo_rating": 1528.7,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Congo",
+    "iso_code": "CGO",
+    "elo_rating": 1515.2,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "RD Congo",
+    "iso_code": "COD",
+    "elo_rating": 1502.8,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Níger",
+    "iso_code": "NIG",
+    "elo_rating": 1488.4,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Mauritania",
+    "iso_code": "MTN",
+    "elo_rating": 1475.9,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Benín",
+    "iso_code": "BEN",
+    "elo_rating": 1462.3,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Togo",
+    "iso_code": "TOG",
+    "elo_rating": 1448.7,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Zimbabue",
+    "iso_code": "ZIM",
+    "elo_rating": 1435.2,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Kenia",
+    "iso_code": "KEN",
+    "elo_rating": 1422.8,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Mozambique",
+    "iso_code": "MOZ",
+    "elo_rating": 1408.4,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Tanzania",
+    "iso_code": "TAN",
+    "elo_rating": 1395.9,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Ruanda",
+    "iso_code": "RWA",
+    "elo_rating": 1382.3,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Madagascar",
+    "iso_code": "MAD",
+    "elo_rating": 1368.7,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Angola",
+    "iso_code": "ANG",
+    "elo_rating": 1355.2,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Namibia",
+    "iso_code": "NAM",
+    "elo_rating": 1342.8,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Botsuana",
+    "iso_code": "BOT",
+    "elo_rating": 1328.4,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Lesoto",
+    "iso_code": "LES",
+    "elo_rating": 1315.9,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Eswatini",
+    "iso_code": "SWZ",
+    "elo_rating": 1302.3,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Malawi",
+    "iso_code": "MWI",
+    "elo_rating": 1288.7,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Comoras",
+    "iso_code": "COM",
+    "elo_rating": 1275.2,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Sudán",
+    "iso_code": "SDN",
+    "elo_rating": 1262.8,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Sudán del Sur",
+    "iso_code": "SSD",
+    "elo_rating": 1248.4,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Etiopía",
+    "iso_code": "ETH",
+    "elo_rating": 1295.9,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Eritrea",
+    "iso_code": "ERI",
+    "elo_rating": 1235.3,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Somalia",
+    "iso_code": "SOM",
+    "elo_rating": 1222.7,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Djibouti",
+    "iso_code": "DJI",
+    "elo_rating": 1208.2,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Chad",
+    "iso_code": "CHA",
+    "elo_rating": 1195.8,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "República Centroafricana",
+    "iso_code": "CTA",
+    "elo_rating": 1182.4,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Guinea-Bisáu",
+    "iso_code": "GNB",
+    "elo_rating": 1312.9,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Gambia",
+    "iso_code": "GAM",
+    "elo_rating": 1425.6,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Liberia",
+    "iso_code": "LBR",
+    "elo_rating": 1268.3,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Sierra Leona",
+    "iso_code": "SLE",
+    "elo_rating": 1255.7,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Guinea Ecuatorial",
+    "iso_code": "EQG",
+    "elo_rating": 1342.2,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Santo Tomé y Príncipe",
+    "iso_code": "STP",
+    "elo_rating": 1218.8,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Seychelles",
+    "iso_code": "SEY",
+    "elo_rating": 1185.4,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Mauricio",
+    "iso_code": "MRI",
+    "elo_rating": 1245.9,
+    "confederation": "CAF",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Nueva Zelanda",
+    "iso_code": "NZL",
+    "elo_rating": 1625.4,
+    "confederation": "OFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Nueva Caledonia",
+    "iso_code": "NCL",
+    "elo_rating": 1485.9,
+    "confederation": "OFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Fiyi",
+    "iso_code": "FIJ",
+    "elo_rating": 1472.3,
+    "confederation": "OFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Papúa Nueva Guinea",
+    "iso_code": "PNG",
+    "elo_rating": 1445.7,
+    "confederation": "OFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Tahití",
+    "iso_code": "TAH",
+    "elo_rating": 1432.2,
+    "confederation": "OFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Islas Salomón",
+    "iso_code": "SOL",
+    "elo_rating": 1418.8,
+    "confederation": "OFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Vanuatu",
+    "iso_code": "VAN",
+    "elo_rating": 1405.4,
+    "confederation": "OFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Samoa",
+    "iso_code": "SAM",
+    "elo_rating": 1372.9,
+    "confederation": "OFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Samoa Americana",
+    "iso_code": "ASA",
+    "elo_rating": 1298.3,
+    "confederation": "OFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Tonga",
+    "iso_code": "TGA",
+    "elo_rating": 1345.7,
+    "confederation": "OFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Islas Cook",
+    "iso_code": "COK",
+    "elo_rating": 1312.2,
+    "confederation": "OFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Kiribati",
+    "iso_code": "KIR",
+    "elo_rating": 1185.8,
+    "confederation": "OFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Tuvalu",
+    "iso_code": "TUV",
+    "elo_rating": 1172.4,
+    "confederation": "OFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  },
+  {
+    "team_name": "Palau",
+    "iso_code": "PLW",
+    "elo_rating": 1158.9,
+    "confederation": "OFC",
+    "wc_qualified": false,
+    "last_updated": "2026-05-21"
+  }
+]

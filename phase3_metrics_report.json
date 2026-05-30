@@ -1,0 +1,29 @@
+{
+  "historical_rows": 15632,
+  "date_min": "2010-01-02",
+  "date_max": "2026-03-31",
+  "future_rows": 0,
+  "feature_ranges": {
+    "elo_diff": [
+      -907.3435433748052,
+      1039.413623459337
+    ],
+    "form_home": [
+      0.0,
+      1.0
+    ],
+    "form_away": [
+      0.0,
+      1.0
+    ],
+    "h2h": [
+      0.0,
+      1.0
+    ]
+  },
+  "ml_temporal_split_accuracy_home_win_binary": {
+    "Random Forest": 0.6897985289414774,
+    "Gradient Boosting": 0.708026862807803,
+    "Logistic Regression": 0.7102654301247202
+  }
+}

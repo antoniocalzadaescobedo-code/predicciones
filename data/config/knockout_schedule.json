@@ -1,0 +1,68 @@
+{
+  "🔟 Dieciseisavos (R32)": {
+    "start": "2026-06-27",
+    "days": 7,
+    "matches": 16,
+    "venues": [
+      "MetLife Stadium (NY)",
+      "AT&T Stadium (Dallas)",
+      "SoFi Stadium (LA)",
+      "Mercedes-Benz (Atlanta)",
+      "Hard Rock (Miami)",
+      "NRG Stadium (Houston)",
+      "Levi's (SF)",
+      "Estadio Azteca (CDMX)"
+    ]
+  },
+  "🔟 Octavos": {
+    "start": "2026-07-04",
+    "days": 4,
+    "matches": 8,
+    "venues": [
+      "MetLife Stadium (NY)",
+      "AT&T Stadium (Dallas)",
+      "SoFi Stadium (LA)",
+      "Mercedes-Benz (Atlanta)",
+      "Hard Rock (Miami)",
+      "NRG Stadium (Houston)",
+      "Levi's (SF)",
+      "Estadio Azteca (CDMX)"
+    ]
+  },
+  "🥊 Cuartos": {
+    "start": "2026-07-09",
+    "days": 2,
+    "matches": 4,
+    "venues": [
+      "MetLife Stadium (NY)",
+      "AT&T Stadium (Dallas)",
+      "SoFi Stadium (LA)",
+      "Estadio Azteca (CDMX)"
+    ]
+  },
+  "🔥 Semifinales": {
+    "start": "2026-07-13",
+    "days": 2,
+    "matches": 2,
+    "venues": [
+      "MetLife Stadium (NY)",
+      "AT&T Stadium (Dallas)"
+    ]
+  },
+  "🥉 Tercer Lugar": {
+    "start": "2026-07-17",
+    "days": 1,
+    "matches": 1,
+    "venues": [
+      "MetLife Stadium (NY)"
+    ]
+  },
+  "🏆 FINAL": {
+    "start": "2026-07-19",
+    "days": 1,
+    "matches": 1,
+    "venues": [
+      "MetLife Stadium (NY)"
+    ]
+  }
+}

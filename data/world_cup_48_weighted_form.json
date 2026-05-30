@@ -1,0 +1,410 @@
+{
+  "Uzbekistan": {
+    "f_exig": 0.633,
+    "adj_orig": 48.1,
+    "adj_weighted": 30.4,
+    "n_total": 12,
+    "n_elite": 6,
+    "is_low_conf": false
+  },
+  "Japan": {
+    "f_exig": 0.7,
+    "adj_orig": 65.3,
+    "adj_weighted": 45.7,
+    "n_total": 12,
+    "n_elite": 5,
+    "is_low_conf": false
+  },
+  "Argentina": {
+    "f_exig": 0.533,
+    "adj_orig": 78.6,
+    "adj_weighted": 41.9,
+    "n_total": 12,
+    "n_elite": 2,
+    "is_low_conf": true
+  },
+  "Portugal": {
+    "f_exig": 0.5,
+    "adj_orig": 63.1,
+    "adj_weighted": 31.6,
+    "n_total": 12,
+    "n_elite": 4,
+    "is_low_conf": false
+  },
+  "Germany": {
+    "f_exig": 0.467,
+    "adj_orig": 68.6,
+    "adj_weighted": 32.0,
+    "n_total": 12,
+    "n_elite": 3,
+    "is_low_conf": false
+  },
+  "Morocco": {
+    "f_exig": 0.533,
+    "adj_orig": 63.1,
+    "adj_weighted": 33.6,
+    "n_total": 12,
+    "n_elite": 4,
+    "is_low_conf": false
+  },
+  "Switzerland": {
+    "f_exig": 0.567,
+    "adj_orig": 57.1,
+    "adj_weighted": 32.4,
+    "n_total": 12,
+    "n_elite": 4,
+    "is_low_conf": false
+  },
+  "United States": {
+    "f_exig": 0.9,
+    "adj_orig": 21.6,
+    "adj_weighted": 19.4,
+    "n_total": 12,
+    "n_elite": 9,
+    "is_low_conf": false
+  },
+  "Spain": {
+    "f_exig": 0.6,
+    "adj_orig": 79.7,
+    "adj_weighted": 47.8,
+    "n_total": 12,
+    "n_elite": 5,
+    "is_low_conf": false
+  },
+  "France": {
+    "f_exig": 0.533,
+    "adj_orig": 82.0,
+    "adj_weighted": 43.7,
+    "n_total": 12,
+    "n_elite": 4,
+    "is_low_conf": false
+  },
+  "DR Congo": {
+    "f_exig": 0.567,
+    "adj_orig": 58.8,
+    "adj_weighted": 33.3,
+    "n_total": 12,
+    "n_elite": 4,
+    "is_low_conf": false
+  },
+  "Jordan": {
+    "f_exig": 0.667,
+    "adj_orig": 42.4,
+    "adj_weighted": 28.2,
+    "n_total": 12,
+    "n_elite": 5,
+    "is_low_conf": false
+  },
+  "Scotland": {
+    "f_exig": 0.433,
+    "adj_orig": 40.0,
+    "adj_weighted": 17.3,
+    "n_total": 12,
+    "n_elite": 3,
+    "is_low_conf": false
+  },
+  "Algeria": {
+    "f_exig": 0.533,
+    "adj_orig": 64.9,
+    "adj_weighted": 34.6,
+    "n_total": 12,
+    "n_elite": 3,
+    "is_low_conf": false
+  },
+  "Tunisia": {
+    "f_exig": 0.567,
+    "adj_orig": 36.3,
+    "adj_weighted": 20.6,
+    "n_total": 12,
+    "n_elite": 5,
+    "is_low_conf": false
+  },
+  "Paraguay": {
+    "f_exig": 0.833,
+    "adj_orig": 21.1,
+    "adj_weighted": 17.6,
+    "n_total": 12,
+    "n_elite": 9,
+    "is_low_conf": false
+  },
+  "Turkey": {
+    "f_exig": 0.567,
+    "adj_orig": 53.7,
+    "adj_weighted": 30.4,
+    "n_total": 12,
+    "n_elite": 5,
+    "is_low_conf": false
+  },
+  "Croatia": {
+    "f_exig": 0.533,
+    "adj_orig": 66.0,
+    "adj_weighted": 35.2,
+    "n_total": 12,
+    "n_elite": 3,
+    "is_low_conf": false
+  },
+  "Australia": {
+    "f_exig": 0.7,
+    "adj_orig": 50.4,
+    "adj_weighted": 35.3,
+    "n_total": 12,
+    "n_elite": 5,
+    "is_low_conf": false
+  },
+  "New Zealand": {
+    "f_exig": 0.733,
+    "adj_orig": 0.9,
+    "adj_weighted": 0.7,
+    "n_total": 12,
+    "n_elite": 7,
+    "is_low_conf": false
+  },
+  "Republic of Ireland": {
+    "f_exig": 0.433,
+    "adj_orig": 60.2,
+    "adj_weighted": 26.1,
+    "n_total": 12,
+    "n_elite": 3,
+    "is_low_conf": false
+  },
+  "Canada": {
+    "f_exig": 0.6,
+    "adj_orig": 35.7,
+    "adj_weighted": 21.4,
+    "n_total": 12,
+    "n_elite": 5,
+    "is_low_conf": false
+  },
+  "Sweden": {
+    "f_exig": 0.533,
+    "adj_orig": 23.8,
+    "adj_weighted": 12.7,
+    "n_total": 12,
+    "n_elite": 4,
+    "is_low_conf": false
+  },
+  "Uruguay": {
+    "f_exig": 0.667,
+    "adj_orig": 35.5,
+    "adj_weighted": 23.6,
+    "n_total": 12,
+    "n_elite": 5,
+    "is_low_conf": false
+  },
+  "Czech Republic": {
+    "f_exig": 0.4,
+    "adj_orig": 32.1,
+    "adj_weighted": 12.8,
+    "n_total": 12,
+    "n_elite": 3,
+    "is_low_conf": false
+  },
+  "Netherlands": {
+    "f_exig": 0.433,
+    "adj_orig": 79.7,
+    "adj_weighted": 34.5,
+    "n_total": 12,
+    "n_elite": 2,
+    "is_low_conf": true
+  },
+  "Brazil": {
+    "f_exig": 0.667,
+    "adj_orig": 49.2,
+    "adj_weighted": 32.8,
+    "n_total": 12,
+    "n_elite": 5,
+    "is_low_conf": false
+  },
+  "England": {
+    "f_exig": 0.6,
+    "adj_orig": 60.4,
+    "adj_weighted": 36.2,
+    "n_total": 12,
+    "n_elite": 5,
+    "is_low_conf": false
+  },
+  "Haiti": {
+    "f_exig": 0.6,
+    "adj_orig": 23.8,
+    "adj_weighted": 14.3,
+    "n_total": 12,
+    "n_elite": 3,
+    "is_low_conf": false
+  },
+  "Colombia": {
+    "f_exig": 0.7,
+    "adj_orig": 46.7,
+    "adj_weighted": 32.7,
+    "n_total": 12,
+    "n_elite": 6,
+    "is_low_conf": false
+  },
+  "Mexico": {
+    "f_exig": 0.7,
+    "adj_orig": 27.1,
+    "adj_weighted": 19.0,
+    "n_total": 12,
+    "n_elite": 6,
+    "is_low_conf": false
+  },
+  "Saudi Arabia": {
+    "f_exig": 0.633,
+    "adj_orig": 13.4,
+    "adj_weighted": 8.5,
+    "n_total": 12,
+    "n_elite": 5,
+    "is_low_conf": false
+  },
+  "Ghana": {
+    "f_exig": 0.533,
+    "adj_orig": 26.6,
+    "adj_weighted": 14.2,
+    "n_total": 12,
+    "n_elite": 4,
+    "is_low_conf": false
+  },
+  "Belgium": {
+    "f_exig": 0.5,
+    "adj_orig": 84.8,
+    "adj_weighted": 42.4,
+    "n_total": 12,
+    "n_elite": 4,
+    "is_low_conf": false
+  },
+  "Ivory Coast": {
+    "f_exig": 0.6,
+    "adj_orig": 60.2,
+    "adj_weighted": 36.2,
+    "n_total": 12,
+    "n_elite": 5,
+    "is_low_conf": false
+  },
+  "Andorra": {
+    "f_exig": 0.467,
+    "adj_orig": -16.6,
+    "adj_weighted": -7.7,
+    "n_total": 12,
+    "n_elite": 4,
+    "is_low_conf": false
+  },
+  "South Korea": {
+    "f_exig": 0.633,
+    "adj_orig": 28.2,
+    "adj_weighted": 17.9,
+    "n_total": 12,
+    "n_elite": 4,
+    "is_low_conf": false
+  },
+  "Iran": {
+    "f_exig": 0.6,
+    "adj_orig": 37.7,
+    "adj_weighted": 22.6,
+    "n_total": 12,
+    "n_elite": 4,
+    "is_low_conf": false
+  },
+  "Norway": {
+    "f_exig": 0.533,
+    "adj_orig": 72.1,
+    "adj_weighted": 38.5,
+    "n_total": 12,
+    "n_elite": 4,
+    "is_low_conf": false
+  },
+  "Senegal": {
+    "f_exig": 0.467,
+    "adj_orig": 66.9,
+    "adj_weighted": 31.2,
+    "n_total": 12,
+    "n_elite": 3,
+    "is_low_conf": false
+  },
+  "Ecuador": {
+    "f_exig": 0.767,
+    "adj_orig": 30.5,
+    "adj_weighted": 23.3,
+    "n_total": 12,
+    "n_elite": 7,
+    "is_low_conf": false
+  },
+  "Curaçao": {
+    "f_exig": 0.533,
+    "adj_orig": 24.9,
+    "adj_weighted": 13.3,
+    "n_total": 12,
+    "n_elite": 3,
+    "is_low_conf": false
+  },
+  "Bosnia and Herzegovina": {
+    "f_exig": 0.467,
+    "adj_orig": 40.5,
+    "adj_weighted": 18.9,
+    "n_total": 12,
+    "n_elite": 3,
+    "is_low_conf": false
+  },
+  "Qatar": {
+    "f_exig": 0.367,
+    "adj_orig": 2.0,
+    "adj_weighted": 0.7,
+    "n_total": 12,
+    "n_elite": 2,
+    "is_low_conf": true
+  },
+  "Panama": {
+    "f_exig": 0.367,
+    "adj_orig": 43.1,
+    "adj_weighted": 15.8,
+    "n_total": 12,
+    "n_elite": 2,
+    "is_low_conf": true
+  },
+  "Egypt": {
+    "f_exig": 0.667,
+    "adj_orig": 51.5,
+    "adj_weighted": 34.3,
+    "n_total": 12,
+    "n_elite": 6,
+    "is_low_conf": false
+  },
+  "South Africa": {
+    "f_exig": 0.5,
+    "adj_orig": 32.1,
+    "adj_weighted": 16.1,
+    "n_total": 12,
+    "n_elite": 3,
+    "is_low_conf": false
+  },
+  "Iraq": {
+    "f_exig": 0.5,
+    "adj_orig": 39.4,
+    "adj_weighted": 19.7,
+    "n_total": 12,
+    "n_elite": 3,
+    "is_low_conf": false
+  },
+  "Cape Verde": {
+    "f_exig": 0.567,
+    "adj_orig": 32.1,
+    "adj_weighted": 18.2,
+    "n_total": 12,
+    "n_elite": 5,
+    "is_low_conf": false
+  },
+  "Austria": {
+    "f_exig": 0.433,
+    "adj_orig": 85.2,
+    "adj_weighted": 36.9,
+    "n_total": 12,
+    "n_elite": 2,
+    "is_low_conf": true
+  },
+  "North Macedonia": {
+    "f_exig": 0.4,
+    "adj_orig": 28.4,
+    "adj_weighted": 11.4,
+    "n_total": 12,
+    "n_elite": 3,
+    "is_low_conf": false
+  }
+}

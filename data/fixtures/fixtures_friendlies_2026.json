@@ -1,0 +1,1208 @@
+[
+  {
+    "date": "21 may",
+    "time": "09:30",
+    "home": "Catar",
+    "away": "Sudán",
+    "status": "CANCELADO",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "22 may",
+    "time": "20:00",
+    "home": "México",
+    "away": "Ghana",
+    "status": "FT",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "26 may",
+    "time": "12:00",
+    "home": "Marruecos",
+    "away": "Burundi",
+    "status": "FT",
+    "home_score": 5,
+    "away_score": 0
+  },
+  {
+    "date": "26 may",
+    "time": "12:30",
+    "home": "Nigeria",
+    "away": "Zimbabwe",
+    "status": "FT",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "27 may",
+    "time": "12:30",
+    "home": "Jamaica",
+    "away": "India",
+    "status": "FT",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "date": "28 may",
+    "time": "12:00",
+    "home": "Egipto",
+    "away": "Rusia",
+    "status": "FT",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "28 may",
+    "time": "12:45",
+    "home": "Irlanda",
+    "away": "Catar",
+    "status": "FT",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "29 may",
+    "time": "12:00",
+    "home": "Irán",
+    "away": "Gambia",
+    "status": "FT",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "date": "29 may",
+    "time": "10:00",
+    "home": "Andorra",
+    "away": "Irak",
+    "status": "FT",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "date": "29 may",
+    "time": "12:00",
+    "home": "Sudáfrica",
+    "away": "Nicaragua",
+    "status": "FT",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "date": "29 may",
+    "time": "10:00",
+    "home": "Bosnia y Herzegovina",
+    "away": "Macedonia del Norte",
+    "status": "FT",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "date": "30 may",
+    "time": "06:00",
+    "home": "Escocia",
+    "away": "Curazao",
+    "status": "FT",
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "date": "30 may",
+    "time": "12:00",
+    "home": "Zimbabue",
+    "away": "India",
+    "status": "FT",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "date": "30 may",
+    "time": "12:00",
+    "home": "Nigeria",
+    "away": "Jamaica",
+    "status": "FT",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "date": "30 may",
+    "time": "17:30",
+    "home": "Ecuador",
+    "away": "Arabia Saudita",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "30 may",
+    "time": "19:00",
+    "home": "Corea del Sur",
+    "away": "Trinidad y Tobago",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "30 may",
+    "time": "20:00",
+    "home": "México",
+    "away": "Australia",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "31 may",
+    "time": "04:25",
+    "home": "Japón",
+    "away": "Islandia",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "31 may",
+    "time": "05:30",
+    "home": "Singapur",
+    "away": "Mongolia",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "31 may",
+    "time": "07:00",
+    "home": "Suiza",
+    "away": "Jordania",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "31 may",
+    "time": "08:00",
+    "home": "República Checa",
+    "away": "Kosovo",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "31 may",
+    "time": "09:00",
+    "home": "Cabo Verde",
+    "away": "Serbia",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "31 may",
+    "time": "09:30",
+    "home": "Polonia",
+    "away": "Ucrania",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "31 may",
+    "time": "12:45",
+    "home": "Alemania",
+    "away": "Finlandia",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "31 may",
+    "time": "13:30",
+    "home": "Estados Unidos",
+    "away": "Senegal",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "31 may",
+    "time": "15:30",
+    "home": "Brasil",
+    "away": "Panamá",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "01 jun",
+    "time": "05:00",
+    "home": "Pakistán",
+    "away": "Bangladés",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "01 jun",
+    "time": "10:00",
+    "home": "Bulgaria",
+    "away": "Montenegro",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "01 jun",
+    "time": "10:00",
+    "home": "Eslovaquia",
+    "away": "Malta",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "01 jun",
+    "time": "10:00",
+    "home": "Maldivas",
+    "away": "Afganistán",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "01 jun",
+    "time": "11:00",
+    "home": "Noruega",
+    "away": "Suecia",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "01 jun",
+    "time": "11:30",
+    "home": "Turquía",
+    "away": "Macedonia del Norte",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "01 jun",
+    "time": "12:45",
+    "home": "Austria",
+    "away": "Túnez",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "01 jun",
+    "time": "17:00",
+    "home": "Colombia",
+    "away": "Costa Rica",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "01 jun",
+    "time": "19:00",
+    "home": "Canadá",
+    "away": "Uzbekistán",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "02 jun",
+    "time": "10:00",
+    "home": "Croacia",
+    "away": "Bélgica",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "02 jun",
+    "time": "11:00",
+    "home": "Georgia",
+    "away": "Rumanía",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "02 jun",
+    "time": "11:00",
+    "home": "Marruecos",
+    "away": "Madagascar",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "02 jun",
+    "time": "12:45",
+    "home": "Gales",
+    "away": "Ghana",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "02 jun",
+    "time": "18:00",
+    "home": "Haití",
+    "away": "Nueva Zelanda",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "03 jun",
+    "time": "05:30",
+    "home": "Filipinas",
+    "away": "Guam",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "03 jun",
+    "time": "06:30",
+    "home": "Kirguistán",
+    "away": "Kenia",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "03 jun",
+    "time": "11:00",
+    "home": "Gibraltar",
+    "away": "Islas Vírgenes GB",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "03 jun",
+    "time": "12:00",
+    "home": "Albania",
+    "away": "Israel",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "03 jun",
+    "time": "12:00",
+    "home": "Dinamarca",
+    "away": "Congo Democrático",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "03 jun",
+    "time": "12:45",
+    "home": "Luxemburgo",
+    "away": "Italia",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "03 jun",
+    "time": "12:45",
+    "home": "Polonia",
+    "away": "Nigeria",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "03 jun",
+    "time": "12:45",
+    "home": "Países Bajos",
+    "away": "Argelia",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "03 jun",
+    "time": "17:00",
+    "home": "Corea del Sur",
+    "away": "El Salvador",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "03 jun",
+    "time": "18:45",
+    "home": "Panamá",
+    "away": "República Dominicana",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "04 jun",
+    "time": "05:00",
+    "home": "Maldivas",
+    "away": "Pakistán",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "04 jun",
+    "time": "06:00",
+    "home": "Camboya",
+    "away": "Bután",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "04 jun",
+    "time": "10:00",
+    "home": "Afganistán",
+    "away": "Bangladés",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "04 jun",
+    "time": "10:00",
+    "home": "Irlanda del Norte",
+    "away": "Guinea",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "04 jun",
+    "time": "10:00",
+    "home": "Eslovenia",
+    "away": "Chipre",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "04 jun",
+    "time": "11:00",
+    "home": "Andorra",
+    "away": "Liechtenstein",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "04 jun",
+    "time": "11:00",
+    "home": "Suecia",
+    "away": "Grecia",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "04 jun",
+    "time": "13:00",
+    "home": "España",
+    "away": "Irak",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "04 jun",
+    "time": "13:10",
+    "home": "Francia",
+    "away": "Costa de Marfil",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "04 jun",
+    "time": "18:00",
+    "home": "República Checa",
+    "away": "Guatemala",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "04 jun",
+    "time": "20:00",
+    "home": "México",
+    "away": "Serbia",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "05 jun",
+    "time": "06:00",
+    "home": "Hong Kong",
+    "away": "Mongolia",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "05 jun",
+    "time": "06:30",
+    "home": "Tailandia",
+    "away": "Kuwait",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "05 jun",
+    "time": "07:00",
+    "home": "Indonesia",
+    "away": "Omán",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "05 jun",
+    "time": "PENDIENTE",
+    "home": "Angola",
+    "away": "Botsuana",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "05 jun",
+    "time": "10:00",
+    "home": "Bielorrusia",
+    "away": "Siria",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "05 jun",
+    "time": "10:00",
+    "home": "Georgia",
+    "away": "Baréin",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "05 jun",
+    "time": "10:30",
+    "home": "Eslovaquia",
+    "away": "Montenegro",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "05 jun",
+    "time": "11:00",
+    "home": "San Marino",
+    "away": "Bangladés",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "05 jun",
+    "time": "11:00",
+    "home": "Moldavia",
+    "away": "Bulgaria",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "05 jun",
+    "time": "11:00",
+    "home": "Rusia",
+    "away": "Burkina Faso",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "05 jun",
+    "time": "11:45",
+    "home": "Hungría",
+    "away": "Finlandia",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "05 jun",
+    "time": "12:00",
+    "home": "Azerbaiyán",
+    "away": "Malta",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "05 jun",
+    "time": "16:15",
+    "home": "Paraguay",
+    "away": "Nicaragua",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "05 jun",
+    "time": "17:30",
+    "home": "Canadá",
+    "away": "Irlanda",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "05 jun",
+    "time": "18:00",
+    "home": "Haití",
+    "away": "Perú",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "06 jun",
+    "time": "07:00",
+    "home": "Bélgica",
+    "away": "Túnez",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "06 jun",
+    "time": "08:00",
+    "home": "Armenia",
+    "away": "Kazajistán",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "06 jun",
+    "time": "10:00",
+    "home": "Comoras",
+    "away": "Ruanda",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "06 jun",
+    "time": "11:00",
+    "home": "Gibraltar",
+    "away": "Islas Caimán",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "06 jun",
+    "time": "11:45",
+    "home": "Portugal",
+    "away": "Chile",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "06 jun",
+    "time": "11:45",
+    "home": "Rumanía",
+    "away": "Gales",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "06 jun",
+    "time": "12:00",
+    "home": "Albania",
+    "away": "Luxemburgo",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "06 jun",
+    "time": "12:30",
+    "home": "Estados Unidos",
+    "away": "Alemania",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "06 jun",
+    "time": "13:00",
+    "home": "Suiza",
+    "away": "Australia",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "06 jun",
+    "time": "13:00",
+    "home": "Panamá",
+    "away": "Bosnia y Herzegovina",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "06 jun",
+    "time": "14:00",
+    "home": "Inglaterra",
+    "away": "Nueva Zelanda",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "06 jun",
+    "time": "14:00",
+    "home": "Catar",
+    "away": "El Salvador",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "06 jun",
+    "time": "14:00",
+    "home": "Bolivia",
+    "away": "Escocia",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "06 jun",
+    "time": "16:00",
+    "home": "Brasil",
+    "away": "Egipto",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "06 jun",
+    "time": "17:00",
+    "home": "Venezuela",
+    "away": "Turquía",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "06 jun",
+    "time": "18:00",
+    "home": "Argentina",
+    "away": "Honduras",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "06 jun",
+    "time": "18:00",
+    "home": "Curazao",
+    "away": "Aruba",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "06 jun",
+    "time": "14:00",
+    "home": "Inglaterra",
+    "away": "Gales",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "06 jun",
+    "time": "18:00",
+    "home": "Argentina",
+    "away": "Ecuador",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "07 jun",
+    "time": "05:00",
+    "home": "Afganistán",
+    "away": "Pakistán",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "07 jun",
+    "time": "07:00",
+    "home": "Liechtenstein",
+    "away": "Chipre",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "07 jun",
+    "time": "10:00",
+    "home": "Maldivas",
+    "away": "Bangladés",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "07 jun",
+    "time": "10:30",
+    "home": "Dinamarca",
+    "away": "Ucrania",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "07 jun",
+    "time": "12:00",
+    "home": "Kosovo",
+    "away": "Andorra",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "07 jun",
+    "time": "12:45",
+    "home": "Croacia",
+    "away": "Eslovenia",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "07 jun",
+    "time": "13:00",
+    "home": "Marruecos",
+    "away": "Noruega",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "07 jun",
+    "time": "13:00",
+    "home": "Grecia",
+    "away": "Italy",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "07 jun",
+    "time": "14:00",
+    "home": "Ecuador",
+    "away": "Guatemala",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "07 jun",
+    "time": "17:00",
+    "home": "Colombia",
+    "away": "Jordania",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "08 jun",
+    "time": "12:45",
+    "home": "Países Bajos",
+    "away": "Uzbekistán",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "08 jun",
+    "time": "13:10",
+    "home": "Francia",
+    "away": "Irlanda del Norte",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "08 jun",
+    "time": "20:00",
+    "home": "España",
+    "away": "Perú",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "08 jun",
+    "time": "PENDIENTE",
+    "home": "Tanzania",
+    "away": "Ruanda",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "08 jun",
+    "time": "18:00",
+    "home": "Bélgica",
+    "away": "Australia",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "09 jun",
+    "time": "PENDIENTE",
+    "home": "Kuwait",
+    "away": "Omán",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "09 jun",
+    "time": "05:30",
+    "home": "Filipinas",
+    "away": "Myanmar",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "09 jun",
+    "time": "05:35",
+    "home": "China",
+    "away": "Tailandia",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "09 jun",
+    "time": "06:00",
+    "home": "Angola",
+    "away": "República Centroafricana",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "09 jun",
+    "time": "06:00",
+    "home": "Camboya",
+    "away": "Hong Kong",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "09 jun",
+    "time": "PENDIENTE",
+    "home": "Etiopía",
+    "away": "Malawi",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "09 jun",
+    "time": "06:30",
+    "home": "Kirguistán",
+    "away": "Palestina",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "09 jun",
+    "time": "07:00",
+    "home": "Indonesia",
+    "away": "Mozambique",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "09 jun",
+    "time": "08:00",
+    "home": "Baréin",
+    "away": "Siria",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "09 jun",
+    "time": "08:00",
+    "home": "Congo Democrático",
+    "away": "Chile",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "09 jun",
+    "time": "10:00",
+    "home": "Armenia",
+    "away": "Moldavia",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "09 jun",
+    "time": "PENDIENTE",
+    "home": "Guinea Ecuatorial",
+    "away": "Comoras",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "09 jun",
+    "time": "10:30",
+    "home": "Bielorrusia",
+    "away": "Burkina Faso",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "09 jun",
+    "time": "11:00",
+    "home": "Hungría",
+    "away": "Kazajistán",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "09 jun",
+    "time": "11:00",
+    "home": "Rusia",
+    "away": "Trinidad y Tobago",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "09 jun",
+    "time": "12:00",
+    "home": "San Marino",
+    "away": "Azerbaiyán",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "09 jun",
+    "time": "PENDIENTE",
+    "home": "Argentina",
+    "away": "Islandia",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "09 jun",
+    "time": "17:00",
+    "home": "Senegal",
+    "away": "Arabia Saudita",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "09 jun",
+    "time": "PENDIENTE",
+    "home": "Irak",
+    "away": "Venezuela",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "09 jun",
+    "time": "19:00",
+    "home": "Francia",
+    "away": "Turquía",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "10 jun",
+    "time": "13:45",
+    "home": "Portugal",
+    "away": "Nigeria",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "10 jun",
+    "time": "14:00",
+    "home": "Inglaterra",
+    "away": "Costa Rica",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "10 jun",
+    "time": "CANCELADO",
+    "home": "Austria",
+    "away": "Guatemala",
+    "status": "CANCELADO",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "date": "10 jun",
+    "time": "18:45",
+    "home": "Alemania",
+    "away": "Países Bajos",
+    "status": "PENDIENTE",
+    "home_score": null,
+    "away_score": null
+  }
+]

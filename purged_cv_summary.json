@@ -1,0 +1,45 @@
+{
+  "n_windows": 3,
+  "avg_accuracy": 0.5443517091632081,
+  "avg_logloss": 0.9792686337188501,
+  "avg_draw_slope": -0.0279483611520555,
+  "draw_slope_std": 0.09862054696177254,
+  "inverted_windows_count": 2,
+  "window_results": [
+    {
+      "window_id": 1,
+      "test_start": "2012-07-04",
+      "test_end": "2012-12-31",
+      "test_samples": 559,
+      "accuracy": 0.5420393559928444,
+      "logloss": 0.988641118673363,
+      "draw_slope": -0.14616503992207236
+    },
+    {
+      "window_id": 2,
+      "test_start": "2014-06-24",
+      "test_end": "2014-12-21",
+      "test_samples": 503,
+      "accuracy": 0.5129224652087475,
+      "logloss": 1.010080527571119,
+      "draw_slope": -0.032930825085454314
+    },
+    {
+      "window_id": 3,
+      "test_start": "2016-06-13",
+      "test_end": "2016-12-10",
+      "test_samples": 493,
+      "accuracy": 0.5780933062880325,
+      "logloss": 0.9390842549120682,
+      "draw_slope": 0.09525078155136016
+    }
+  ],
+  "configuration": {
+    "n_windows": 3,
+    "train_months": 24,
+    "val_months": 6,
+    "test_months": 6,
+    "gap_days": 7
+  },
+  "recommendation": "SYSTEMATIC_INVERSION"
+}

@@ -1,0 +1,9 @@
+{
+  "export_date": "2026-05-21 16:39:55",
+  "model_info": {
+    "type": "GradientBoostingClassifier",
+    "calibrated": true,
+    "motivation_factor": 0.88
+  },
+  "predictions": []
+}

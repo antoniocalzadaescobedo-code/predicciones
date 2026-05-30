@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "train_end": "2020-12-31",
+    "cal_end": "2022-12-31",
+    "test_end": "2025-12-31",
+    "fitted_temperature": 0.8653320312499999,
+    "n_test_matches": 3280
+  },
+  "metrics": {
+    "raw": {
+      "brier": 0.5132,
+      "log_loss": 0.8756,
+      "accuracy": 60.34,
+      "upset_rate": 2.48,
+      "upset_detect_rate": 0.0,
+      "calibration_ece": 0.0253,
+      "n_matches": 3280,
+      "mce": 0.1019
+    },
+    "calibrated": {
+      "brier": 0.5145,
+      "log_loss": 0.8759,
+      "accuracy": 60.34,
+      "upset_rate": 3.96,
+      "upset_detect_rate": 0.0,
+      "calibration_ece": 0.0274,
+      "n_matches": 3280,
+      "mce": 0.083
+    }
+  },
+  "buckets": {
+    "fav_70": {
+      "n_matches": 998,
+      "avg_raw": 0.7751,
+      "avg_cal": 0.8196,
+      "actual_rate": 0.8196,
+      "raw_overconfidence_gap": -0.0445,
+      "cal_overconfidence_gap": -0.0
+    },
+    "fav_80": {
+      "n_matches": 320,
+      "avg_raw": 0.8294,
+      "avg_cal": 0.8689,
+      "actual_rate": 0.9313,
+      "raw_overconfidence_gap": -0.1019,
+      "cal_overconfidence_gap": -0.0623
+    },
+    "under_25": {
+      "n_matches": 2146,
+      "avg_raw": 0.1335,
+      "avg_cal": 0.1146,
+      "actual_rate": 0.1034,
+      "raw_overconfidence_gap": 0.03,
+      "cal_overconfidence_gap": 0.0112
+    }
+  },
+  "draw_analysis": {
+    "raw_draw_ece": 0.0283,
+    "raw_draw_mce": 0.0488,
+    "cal_draw_ece": 0.0426,
+    "cal_draw_mce": 0.0528,
+    "bins_raw": [
+      {
+        "bin_range": "0.1–0.2",
+        "pred_mean": 0.1668,
+        "obs_rate": 0.1614,
+        "n": 1549,
+        "abs_error": 0.0054,
+        "is_overconfident": true
+      },
+      {
+        "bin_range": "0.2–0.3",
+        "pred_mean": 0.2395,
+        "obs_rate": 0.2883,
+        "n": 1731,
+        "abs_error": 0.0488,
+        "is_overconfident": false
+      }
+    ],
+    "bins_cal": [
+      {
+        "bin_range": "0.1–0.2",
+        "pred_mean": 0.1508,
+        "obs_rate": 0.1863,
+        "n": 1932,
+        "abs_error": 0.0356,
+        "is_overconfident": false
+      },
+      {
+        "bin_range": "0.2–0.3",
+        "pred_mean": 0.2358,
+        "obs_rate": 0.2886,
+        "n": 1348,
+        "abs_error": 0.0528,
+        "is_overconfident": false
+      }
+    ]
+  }
+}

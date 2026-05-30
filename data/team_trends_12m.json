@@ -1,0 +1,482 @@
+{
+  "Mexico": {
+    "matches_12m": 17,
+    "ppg": 1.41,
+    "win_rate": 0.35,
+    "gf_avg": 1.14,
+    "ga_avg": 0.79,
+    "gd_avg": 0.36,
+    "form_last_5": 0.13,
+    "form_last_10": 0.4
+  },
+  "South Africa": {
+    "matches_12m": 14,
+    "ppg": 1.29,
+    "win_rate": 0.36,
+    "gf_avg": 1.64,
+    "ga_avg": 1.0,
+    "gd_avg": 0.64,
+    "form_last_5": 0.07,
+    "form_last_10": 0.33
+  },
+  "South Korea": {
+    "matches_12m": 11,
+    "ppg": 1.18,
+    "win_rate": 0.36,
+    "gf_avg": 1.12,
+    "ga_avg": 1.5,
+    "gd_avg": -0.38,
+    "form_last_5": 0.0,
+    "form_last_10": 0.33
+  },
+  "Czech Republic": {
+    "matches_12m": 11,
+    "ppg": 1.18,
+    "win_rate": 0.27,
+    "gf_avg": 1.88,
+    "ga_avg": 0.88,
+    "gd_avg": 1.0,
+    "form_last_5": 0.13,
+    "form_last_10": 0.33
+  },
+  "Canada": {
+    "matches_12m": 12,
+    "ppg": 1.17,
+    "win_rate": 0.25,
+    "gf_avg": 1.0,
+    "ga_avg": 0.44,
+    "gd_avg": 0.56,
+    "form_last_5": 0.13,
+    "form_last_10": 0.33
+  },
+  "Bosnia and Herzegovina": {
+    "matches_12m": 11,
+    "ppg": 1.18,
+    "win_rate": 0.27,
+    "gf_avg": 2.38,
+    "ga_avg": 1.12,
+    "gd_avg": 1.25,
+    "form_last_5": 0.13,
+    "form_last_10": 0.33
+  },
+  "Qatar": {
+    "matches_12m": 12,
+    "ppg": 0.58,
+    "win_rate": 0.08,
+    "gf_avg": 1.0,
+    "ga_avg": 1.78,
+    "gd_avg": -0.78,
+    "form_last_5": 0.07,
+    "form_last_10": 0.17
+  },
+  "Switzerland": {
+    "matches_12m": 11,
+    "ppg": 1.36,
+    "win_rate": 0.36,
+    "gf_avg": 2.12,
+    "ga_avg": 0.75,
+    "gd_avg": 1.38,
+    "form_last_5": 0.07,
+    "form_last_10": 0.4
+  },
+  "Brazil": {
+    "matches_12m": 11,
+    "ppg": 1.18,
+    "win_rate": 0.36,
+    "gf_avg": 2.12,
+    "ga_avg": 1.0,
+    "gd_avg": 1.12,
+    "form_last_5": 0.2,
+    "form_last_10": 0.33
+  },
+  "Morocco": {
+    "matches_12m": 24,
+    "ppg": 2.29,
+    "win_rate": 0.71,
+    "gf_avg": 1.9,
+    "ga_avg": 0.29,
+    "gd_avg": 1.62,
+    "form_last_5": 0.27,
+    "form_last_10": 0.57
+  },
+  "Haiti": {
+    "matches_12m": 11,
+    "ppg": 1.09,
+    "win_rate": 0.27,
+    "gf_avg": 1.25,
+    "ga_avg": 1.0,
+    "gd_avg": 0.25,
+    "form_last_5": 0.07,
+    "form_last_10": 0.37
+  },
+  "Scotland": {
+    "matches_12m": 11,
+    "ppg": 1.18,
+    "win_rate": 0.36,
+    "gf_avg": 1.62,
+    "ga_avg": 1.12,
+    "gd_avg": 0.5,
+    "form_last_5": 0.0,
+    "form_last_10": 0.4
+  },
+  "United States": {
+    "matches_12m": 14,
+    "ppg": 1.21,
+    "win_rate": 0.36,
+    "gf_avg": 1.73,
+    "ga_avg": 1.64,
+    "gd_avg": 0.09,
+    "form_last_5": 0.0,
+    "form_last_10": 0.43
+  },
+  "Paraguay": {
+    "matches_12m": 11,
+    "ppg": 1.0,
+    "win_rate": 0.27,
+    "gf_avg": 1.0,
+    "ga_avg": 1.12,
+    "gd_avg": -0.12,
+    "form_last_5": 0.2,
+    "form_last_10": 0.33
+  },
+  "Australia": {
+    "matches_12m": 11,
+    "ppg": 1.36,
+    "win_rate": 0.45,
+    "gf_avg": 1.5,
+    "ga_avg": 1.0,
+    "gd_avg": 0.5,
+    "form_last_5": 0.4,
+    "form_last_10": 0.4
+  },
+  "Turkey": {
+    "matches_12m": 11,
+    "ppg": 1.73,
+    "win_rate": 0.55,
+    "gf_avg": 2.38,
+    "ga_avg": 1.5,
+    "gd_avg": 0.88,
+    "form_last_5": 0.4,
+    "form_last_10": 0.53
+  },
+  "Germany": {
+    "matches_12m": 11,
+    "ppg": 1.91,
+    "win_rate": 0.64,
+    "gf_avg": 2.75,
+    "ga_avg": 0.88,
+    "gd_avg": 1.88,
+    "form_last_5": 0.4,
+    "form_last_10": 0.7
+  },
+  "Curaçao": {
+    "matches_12m": 11,
+    "ppg": 1.09,
+    "win_rate": 0.27,
+    "gf_avg": 1.75,
+    "ga_avg": 1.25,
+    "gd_avg": 0.5,
+    "form_last_5": 0.0,
+    "form_last_10": 0.37
+  },
+  "Ivory Coast": {
+    "matches_12m": 16,
+    "ppg": 1.81,
+    "win_rate": 0.56,
+    "gf_avg": 2.15,
+    "ga_avg": 0.54,
+    "gd_avg": 1.62,
+    "form_last_5": 0.4,
+    "form_last_10": 0.53
+  },
+  "Ecuador": {
+    "matches_12m": 11,
+    "ppg": 1.09,
+    "win_rate": 0.18,
+    "gf_avg": 0.88,
+    "ga_avg": 0.5,
+    "gd_avg": 0.38,
+    "form_last_5": 0.13,
+    "form_last_10": 0.37
+  },
+  "Netherlands": {
+    "matches_12m": 11,
+    "ppg": 1.64,
+    "win_rate": 0.45,
+    "gf_avg": 2.5,
+    "ga_avg": 0.75,
+    "gd_avg": 1.75,
+    "form_last_5": 0.27,
+    "form_last_10": 0.57
+  },
+  "Japan": {
+    "matches_12m": 11,
+    "ppg": 1.55,
+    "win_rate": 0.45,
+    "gf_avg": 1.5,
+    "ga_avg": 0.75,
+    "gd_avg": 0.75,
+    "form_last_5": 0.4,
+    "form_last_10": 0.53
+  },
+  "Sweden": {
+    "matches_12m": 11,
+    "ppg": 0.73,
+    "win_rate": 0.18,
+    "gf_avg": 1.25,
+    "ga_avg": 1.88,
+    "gd_avg": -0.62,
+    "form_last_5": 0.4,
+    "form_last_10": 0.23
+  },
+  "Tunisia": {
+    "matches_12m": 19,
+    "ppg": 1.58,
+    "win_rate": 0.42,
+    "gf_avg": 1.94,
+    "ga_avg": 0.81,
+    "gd_avg": 1.12,
+    "form_last_5": 0.27,
+    "form_last_10": 0.4
+  },
+  "Belgium": {
+    "matches_12m": 11,
+    "ppg": 1.64,
+    "win_rate": 0.45,
+    "gf_avg": 3.75,
+    "ga_avg": 0.75,
+    "gd_avg": 3.0,
+    "form_last_5": 0.27,
+    "form_last_10": 0.5
+  },
+  "Egypt": {
+    "matches_12m": 21,
+    "ppg": 1.48,
+    "win_rate": 0.38,
+    "gf_avg": 1.22,
+    "ga_avg": 0.72,
+    "gd_avg": 0.5,
+    "form_last_5": 0.27,
+    "form_last_10": 0.4
+  },
+  "Iran": {
+    "matches_12m": 9,
+    "ppg": 0.89,
+    "win_rate": 0.22,
+    "gf_avg": 1.5,
+    "ga_avg": 0.67,
+    "gd_avg": 0.83,
+    "form_last_5": 0.2,
+    "form_last_10": 0.3
+  },
+  "New Zealand": {
+    "matches_12m": 11,
+    "ppg": 0.36,
+    "win_rate": 0.09,
+    "gf_avg": 0.88,
+    "ga_avg": 1.62,
+    "gd_avg": -0.75,
+    "form_last_5": 0.2,
+    "form_last_10": 0.13
+  },
+  "Spain": {
+    "matches_12m": 11,
+    "ppg": 1.82,
+    "win_rate": 0.55,
+    "gf_avg": 3.0,
+    "ga_avg": 0.25,
+    "gd_avg": 2.75,
+    "form_last_5": 0.27,
+    "form_last_10": 0.57
+  },
+  "Cape Verde": {
+    "matches_12m": 11,
+    "ppg": 1.18,
+    "win_rate": 0.27,
+    "gf_avg": 1.62,
+    "ga_avg": 1.12,
+    "gd_avg": 0.5,
+    "form_last_5": 0.07,
+    "form_last_10": 0.33
+  },
+  "Saudi Arabia": {
+    "matches_12m": 17,
+    "ppg": 1.18,
+    "win_rate": 0.35,
+    "gf_avg": 1.07,
+    "ga_avg": 1.36,
+    "gd_avg": -0.29,
+    "form_last_5": 0.0,
+    "form_last_10": 0.3
+  },
+  "Uruguay": {
+    "matches_12m": 11,
+    "ppg": 1.18,
+    "win_rate": 0.27,
+    "gf_avg": 1.0,
+    "ga_avg": 0.88,
+    "gd_avg": 0.12,
+    "form_last_5": 0.13,
+    "form_last_10": 0.33
+  },
+  "France": {
+    "matches_12m": 11,
+    "ppg": 2.0,
+    "win_rate": 0.64,
+    "gf_avg": 2.62,
+    "ga_avg": 0.75,
+    "gd_avg": 1.88,
+    "form_last_5": 0.4,
+    "form_last_10": 0.63
+  },
+  "Senegal": {
+    "matches_12m": 18,
+    "ppg": 2.06,
+    "win_rate": 0.67,
+    "gf_avg": 2.6,
+    "ga_avg": 0.67,
+    "gd_avg": 1.93,
+    "form_last_5": 0.4,
+    "form_last_10": 0.6
+  },
+  "Iraq": {
+    "matches_12m": 14,
+    "ppg": 1.64,
+    "win_rate": 0.5,
+    "gf_avg": 1.18,
+    "ga_avg": 0.73,
+    "gd_avg": 0.45,
+    "form_last_5": 0.2,
+    "form_last_10": 0.43
+  },
+  "Norway": {
+    "matches_12m": 11,
+    "ppg": 1.55,
+    "win_rate": 0.45,
+    "gf_avg": 3.38,
+    "ga_avg": 0.75,
+    "gd_avg": 2.62,
+    "form_last_5": 0.07,
+    "form_last_10": 0.47
+  },
+  "Argentina": {
+    "matches_12m": 10,
+    "ppg": 1.8,
+    "win_rate": 0.6,
+    "gf_avg": 2.71,
+    "ga_avg": 0.29,
+    "gd_avg": 2.43,
+    "form_last_5": 0.4,
+    "form_last_10": 0.6
+  },
+  "Algeria": {
+    "matches_12m": 20,
+    "ppg": 2.0,
+    "win_rate": 0.6,
+    "gf_avg": 2.12,
+    "ga_avg": 0.47,
+    "gd_avg": 1.65,
+    "form_last_5": 0.27,
+    "form_last_10": 0.53
+  },
+  "Austria": {
+    "matches_12m": 11,
+    "ppg": 1.73,
+    "win_rate": 0.55,
+    "gf_avg": 2.75,
+    "ga_avg": 0.5,
+    "gd_avg": 2.25,
+    "form_last_5": 0.4,
+    "form_last_10": 0.53
+  },
+  "Jordan": {
+    "matches_12m": 17,
+    "ppg": 1.24,
+    "win_rate": 0.35,
+    "gf_avg": 1.79,
+    "ga_avg": 1.43,
+    "gd_avg": 0.36,
+    "form_last_5": 0.13,
+    "form_last_10": 0.47
+  },
+  "Portugal": {
+    "matches_12m": 11,
+    "ppg": 1.55,
+    "win_rate": 0.45,
+    "gf_avg": 2.75,
+    "ga_avg": 0.88,
+    "gd_avg": 1.88,
+    "form_last_5": 0.27,
+    "form_last_10": 0.47
+  },
+  "DR Congo": {
+    "matches_12m": 15,
+    "ppg": 1.73,
+    "win_rate": 0.53,
+    "gf_avg": 1.5,
+    "ga_avg": 0.58,
+    "gd_avg": 0.92,
+    "form_last_5": 0.4,
+    "form_last_10": 0.47
+  },
+  "Uzbekistan": {
+    "matches_12m": 10,
+    "ppg": 1.2,
+    "win_rate": 0.3,
+    "gf_avg": 1.43,
+    "ga_avg": 0.71,
+    "gd_avg": 0.71,
+    "form_last_5": 0.27,
+    "form_last_10": 0.4
+  },
+  "Colombia": {
+    "matches_12m": 11,
+    "ppg": 1.45,
+    "win_rate": 0.45,
+    "gf_avg": 2.5,
+    "ga_avg": 1.12,
+    "gd_avg": 1.38,
+    "form_last_5": 0.0,
+    "form_last_10": 0.43
+  },
+  "England": {
+    "matches_12m": 11,
+    "ppg": 1.73,
+    "win_rate": 0.55,
+    "gf_avg": 2.5,
+    "ga_avg": 0.25,
+    "gd_avg": 2.25,
+    "form_last_5": 0.07,
+    "form_last_10": 0.53
+  },
+  "Croatia": {
+    "matches_12m": 11,
+    "ppg": 1.73,
+    "win_rate": 0.55,
+    "gf_avg": 2.12,
+    "ga_avg": 0.88,
+    "gd_avg": 1.25,
+    "form_last_5": 0.2,
+    "form_last_10": 0.53
+  },
+  "Ghana": {
+    "matches_12m": 11,
+    "ppg": 0.91,
+    "win_rate": 0.27,
+    "gf_avg": 1.25,
+    "ga_avg": 1.38,
+    "gd_avg": -0.12,
+    "form_last_5": 0.0,
+    "form_last_10": 0.3
+  },
+  "Panama": {
+    "matches_12m": 14,
+    "ppg": 1.29,
+    "win_rate": 0.29,
+    "gf_avg": 1.27,
+    "ga_avg": 0.82,
+    "gd_avg": 0.45,
+    "form_last_5": 0.27,
+    "form_last_10": 0.4
+  }
+}

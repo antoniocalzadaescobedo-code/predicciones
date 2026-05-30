@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+
+# Backups
+*.bak
+
+# Data runtime (opcional pero recomendado)
+friendlies_2026_pre_world_cup.csv
+
+# Streamlit runtime
+.streamlit/cache/
+.streamlit/logs/
+
+# Environments
+venv/
+.env

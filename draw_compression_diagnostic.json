@@ -1,0 +1,37 @@
+{
+  "compression_analysis": {
+    "mean": 0.2231343420363018,
+    "std": 0.06727685380307818,
+    "min": 0.0,
+    "max": 0.5941084310165641,
+    "p95": 0.33361554857278497,
+    "real_draw_rate": 0.2383939774153074,
+    "density_10_20": 0.30447511501463825,
+    "density_20_35": 0.6286072772898369,
+    "density_35_plus": 0.033877038895859475,
+    "pattern": "NORMAL",
+    "severity": "LOW"
+  },
+  "calibration_analysis": {
+    "slope": -0.08614991902126504,
+    "pattern": "S_SHAPED_FLATTENED",
+    "solution": "Reentrenamiento con class weights"
+  },
+  "ranking_analysis": {
+    "gap_mean": 0.3422785068293227,
+    "gap_median": 0.33098638775619615,
+    "draw_dominates_rate": 0.011292346298619825,
+    "pattern": "SEVERE_SUPPRESSION",
+    "solution": "Boost masivo en se\u00f1al de empate durante entrenamiento"
+  },
+  "final_diagnosis": {
+    "compression_pattern": "NORMAL",
+    "compression_severity": "LOW",
+    "calibration_pattern": "S_SHAPED_FLATTENED",
+    "calibration_solution": "Reentrenamiento con class weights",
+    "ranking_pattern": "SEVERE_SUPPRESSION",
+    "ranking_solution": "Boost masivo en se\u00f1al de empate durante entrenamiento",
+    "recommended_intervention": "RETRAIN_WITH_WEIGHTS",
+    "diagnostic_date": "2026-05-24T01:13:17.665573"
+  }
+}

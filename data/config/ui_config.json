@@ -1,0 +1,77 @@
+{
+  "app": {
+    "title": "Predictor FIFA 2026",
+    "icon": "⚽",
+    "layout": "wide",
+    "initial_sidebar_state": "expanded"
+  },
+  "tabs": {
+    "inicio": "🏠 Inicio",
+    "simulador": "🔮 Simulador",
+    "calendario": "📅 Calendario",
+    "analisis": "📊 Análisis",
+    "montecarlo": "🎲 Monte Carlo"
+  },
+  "inicio": {
+    "title": "AC 2026 Predictor",
+    "ai_banner": "🤖 Qwen 3.6 como apoyo de IA para el análisis futbolístico",
+    "description": "Esta herramienta combina GBM calibrado, datos de eliminatorias reales y Strength of Schedule (SOS) para predecir resultados con precisión profesional. Todo el código, la arquitectura y la automatización fueron desarrollados con el apoyo de Qwen 3.6, garantizando calidad, escalabilidad y mejores prácticas de ingeniería.",
+    "features": {
+      "simulador": "🔮 Simulador\nPredicciones inline con Value Betting y ajustes SOS.",
+      "calendario": "📅 Calendario\n93 amistosos + Fase de grupos + Expansión por tarjeta.",
+      "montecarlo": "🎲 Monte Carlo\nSimulación completa del torneo con bracket oficial.",
+      "live": "🔄 Live Update\nDatos actualizados automáticamente cada 6h."
+    },
+    "quick_access": {
+      "simulador": "🔮 Abrir Simulador",
+      "calendario": "📅 Ver Calendario",
+      "analisis": "📊 Ver Análisis",
+      "montecarlo": "🎲 Monte Carlo"
+    },
+    "getting_started": "1. **Sidebar**: Ajusta motivación y tipo de partido.\n2. **Simulador**: Analiza enfrentamientos con gráfico y value betting.\n3. **Calendario**: Usa `Ver ↗` para abrir el simulador inline.\n4. **Monte Carlo**: Ejecuta simulaciones del torneo completo.\n5. **Datos en vivo**: Indicador 🟢 confirma última actualización."
+  },
+  "simulador": {
+    "title": "🔮 Simulador de Partidos",
+    "home_label": "🏠 Equipo Local",
+    "away_label": "✈️ Equipo Visitante",
+    "calculate_button": "🔮 Calcular Predicción"
+  },
+  "calendario": {
+    "world_title": "🏆 Calendario Oficial del Mundial 2026",
+    "friendlies_title": "📅 Calendario de Amistosos",
+    "phases": [
+      "📋 Fase de Grupos",
+      "🔟 Dieciseisavos (R32)",
+      "🔟 Octavos",
+      "🥊 Cuartos",
+      "🔥 Semifinales",
+      "🥉 Tercer Lugar",
+      "🏆 FINAL"
+    ]
+  },
+  "analisis": {
+    "title": "📊 Análisis del Modelo",
+    "architecture": "### 🔬 Arquitectura\n- GBM Multiclase + Calibración Isotónica\n- Ajustes SOS y Δ ELO\n- Datos de eliminatorias actualizados",
+    "metrics": "### 📈 Métricas\n- Accuracy: 0.591\n- Log Loss: 0.910\n- ECE: 0.499"
+  },
+  "montecarlo": {
+    "title": "🎲 Simulación Oficial",
+    "slider_label": "Número de simulaciones",
+    "execute_button": "🚀 Ejecutar Simulación",
+    "champ_title": "🏆 Probabilidad de Campeón",
+    "error_message": "⚠️ No se encontró `monte_carlo_wc2026.py`."
+  },
+  "sidebar": {
+    "config_title": "⚙️ Configuración",
+    "nav_title": "🧭 Navegación",
+    "nav_label": "Ir a",
+    "motivation_label": "🎯 Motivación",
+    "neutral_label": "🌍 Campo neutral",
+    "match_type_label": "Tipo de partido",
+    "world_mode": "🏆 Modo Mundial",
+    "reload_button": "🔄 Recargar todo",
+    "live_title": "📡 Datos en Vivo",
+    "update_button": "🔄 Forzar actualización ahora",
+    "loading": "⏳ Cargando datos..."
+  }
+}

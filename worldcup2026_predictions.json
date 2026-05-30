@@ -1,0 +1,197 @@
+{
+  "model_info": {
+    "type": "GradientBoostingClassifier",
+    "classes": [
+      -1,
+      0,
+      1
+    ],
+    "class_labels": [
+      "away_win",
+      "draw",
+      "home_win"
+    ],
+    "calibrated": false,
+    "feature_names": [
+      "elo_diff",
+      "form_home",
+      "form_away",
+      "h2h",
+      "is_neutral"
+    ]
+  },
+  "performance": {
+    "accuracy": 0.5910014513788099,
+    "logloss": 0.9099535327410915,
+    "brier": 0.5345815067376309,
+    "ece": 0.49932829745847834,
+    "n_samples": 3445,
+    "class_distribution": {
+      "away_win": 1036,
+      "draw": 795,
+      "home_win": 1614
+    }
+  },
+  "sample_predictions": [
+    {
+      "teams": {
+        "home": "Morocco",
+        "away": "Mauritania"
+      },
+      "prediction": {
+        "outcome": "away_win",
+        "confidence": 0.5345421689816175
+      },
+      "probabilities": {
+        "away_win": 0.5345421689816175,
+        "draw": 0.18774946221342423,
+        "home_win": 0.27770836880495825
+      },
+      "actual_outcome": -1
+    },
+    {
+      "teams": {
+        "home": "Ecuador",
+        "away": "Venezuela"
+      },
+      "prediction": {
+        "outcome": "home_win",
+        "confidence": 0.5506770637930186
+      },
+      "probabilities": {
+        "away_win": 0.22890327426651544,
+        "draw": 0.22041966194046592,
+        "home_win": 0.5506770637930186
+      },
+      "actual_outcome": 1
+    },
+    {
+      "teams": {
+        "home": "Haiti",
+        "away": "Honduras"
+      },
+      "prediction": {
+        "outcome": "away_win",
+        "confidence": 0.4340280852488179
+      },
+      "probabilities": {
+        "away_win": 0.4340280852488179,
+        "draw": 0.2252324552614819,
+        "home_win": 0.3407394594897001
+      },
+      "actual_outcome": -1
+    },
+    {
+      "teams": {
+        "home": "Niger",
+        "away": "Angola"
+      },
+      "prediction": {
+        "outcome": "home_win",
+        "confidence": 0.44961441635215943
+      },
+      "probabilities": {
+        "away_win": 0.3042280163794056,
+        "draw": 0.246157567268435,
+        "home_win": 0.44961441635215943
+      },
+      "actual_outcome": 0
+    },
+    {
+      "teams": {
+        "home": "Norway",
+        "away": "Finland"
+      },
+      "prediction": {
+        "outcome": "away_win",
+        "confidence": 0.5870868472278991
+      },
+      "probabilities": {
+        "away_win": 0.5870868472278991,
+        "draw": 0.18929130611645287,
+        "home_win": 0.22362184665564813
+      },
+      "actual_outcome": -1
+    },
+    {
+      "teams": {
+        "home": "Chad",
+        "away": "Kenya"
+      },
+      "prediction": {
+        "outcome": "home_win",
+        "confidence": 0.5653413149695546
+      },
+      "probabilities": {
+        "away_win": 0.23925165619842503,
+        "draw": 0.1954070288320203,
+        "home_win": 0.5653413149695546
+      },
+      "actual_outcome": 0
+    },
+    {
+      "teams": {
+        "home": "Tahiti",
+        "away": "Fiji"
+      },
+      "prediction": {
+        "outcome": "home_win",
+        "confidence": 0.3577862914472682
+      },
+      "probabilities": {
+        "away_win": 0.32907460426184937,
+        "draw": 0.3131391042908825,
+        "home_win": 0.3577862914472682
+      },
+      "actual_outcome": 1
+    },
+    {
+      "teams": {
+        "home": "Suriname",
+        "away": "Mexico"
+      },
+      "prediction": {
+        "outcome": "away_win",
+        "confidence": 0.544044499957126
+      },
+      "probabilities": {
+        "away_win": 0.544044499957126,
+        "draw": 0.19151506942118834,
+        "home_win": 0.26444043062168565
+      },
+      "actual_outcome": -1
+    },
+    {
+      "teams": {
+        "home": "Scotland",
+        "away": "Norway"
+      },
+      "prediction": {
+        "outcome": "home_win",
+        "confidence": 0.5619403124651415
+      },
+      "probabilities": {
+        "away_win": 0.21297015821710105,
+        "draw": 0.22508952931775747,
+        "home_win": 0.5619403124651415
+      },
+      "actual_outcome": 1
+    },
+    {
+      "teams": {
+        "home": "Eswatini",
+        "away": "Cape Verde Islands"
+      },
+      "prediction": {
+        "outcome": "home_win",
+        "confidence": 0.6431041974690499
+      },
+      "probabilities": {
+        "away_win": 0.12596971526830075,
+        "draw": 0.2309260872626494,
+        "home_win": 0.6431041974690499
+      },
+      "actual_outcome": 1
+    }
+  ]
+}

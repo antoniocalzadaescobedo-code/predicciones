@@ -1,0 +1,79 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Competition,Round
+08/09/2023,Argentina,Ecuador,1,0,H,CONMEBOL,Jornada 1
+08/09/2023,Venezuela,Colombia,0,1,A,CONMEBOL,Jornada 1
+08/09/2023,Uruguay,Chile,3,1,H,CONMEBOL,Jornada 1
+12/09/2023,Ecuador,Uruguay,2,1,H,CONMEBOL,Jornada 2
+12/09/2023,Colombia,Venezuela,1,0,H,CONMEBOL,Jornada 2
+12/09/2023,Chile,Argentina,0,0,D,CONMEBOL,Jornada 2
+12/10/2023,Argentina,Paraguay,1,0,H,CONMEBOL,Jornada 3
+12/10/2023,Brasil,Venezuela,1,1,D,CONMEBOL,Jornada 3
+12/10/2023,Peru,Uruguay,0,2,A,CONMEBOL,Jornada 3
+17/10/2023,Paraguay,Brasil,0,2,A,CONMEBOL,Jornada 4
+17/10/2023,Venezuela,Chile,3,0,H,CONMEBOL,Jornada 4
+17/10/2023,Uruguay,Brasil,2,0,H,CONMEBOL,Jornada 4
+16/11/2023,Argentina,Uruguay,0,2,A,CONMEBOL,Jornada 5
+16/11/2023,Colombia,Brasil,2,1,H,CONMEBOL,Jornada 5
+21/11/2023,Brasil,Argentina,0,1,A,CONMEBOL,Jornada 6
+07/06/2024,Estados Unidos,Colombia,1,5,A,CONCACAF,Semifinal
+10/06/2024,Estados Unidos,Uruguay,0,1,A,CONCACAF,Final
+14/06/2024,Alemania,Escocia,5,1,H,UEFA,Fase de Grupos
+15/06/2024,Hungría,Suiza,1,3,A,UEFA,Fase de Grupos
+15/06/2024,España,Croacia,3,0,H,UEFA,Fase de Grupos
+19/06/2024,Portugal,República Checa,2,1,H,UEFA,Fase de Grupos
+20/06/2024,Dinamarca,Inglaterra,1,1,D,UEFA,Fase de Grupos
+25/06/2024,Francia,Polonia,1,1,D,UEFA,Fase de Grupos
+30/06/2024,España,Georgia,4,1,H,UEFA,Octavos
+01/07/2024,Portugal,Eslovenia,0,0,D,UEFA,Octavos
+05/07/2024,España,Alemania,2,1,H,UEFA,Cuartos
+10/07/2024,Países Bajos,Inglaterra,1,2,A,UEFA,Semifinal
+14/07/2024,España,Inglaterra,2,1,H,UEFA,Final
+21/03/2024,Japón,North Macedonia,5,0,H,AFC,Ronda 3
+26/03/2024,Irán,Corea del Sur,2,1,H,AFC,Ronda 3
+06/06/2024,Corea del Sur,Singapur,7,0,H,AFC,Ronda 3
+11/06/2024,Australia,Lebanon,0,1,A,AFC,Ronda 3
+07/09/2023,Nigeria,South Africa,2,2,D,CAF,Ronda 2
+07/09/2023,Senegal,Togo,0,1,A,CAF,Ronda 2
+07/09/2023,Egipto,Ghana,2,1,H,CAF,Ronda 2
+07/09/2023,Costa de Marfil,Lesotho,1,0,H,CAF,Ronda 2
+07/09/2023,Marruecos,Liberia,3,0,H,CAF,Ronda 2
+07/09/2023,Camerún,Burundi,3,0,H,CAF,Ronda 2
+12/09/2023,South Africa,Nigeria,1,1,D,CAF,Ronda 2
+12/09/2023,Togo,Senegal,0,1,A,CAF,Ronda 2
+12/09/2023,Ghana,Egipto,1,2,A,CAF,Ronda 2
+12/09/2023,Lesotho,Costa de Marfil,0,3,A,CAF,Ronda 2
+12/09/2023,Liberia,Marruecos,0,2,A,CAF,Ronda 2
+12/09/2023,Burundi,Camerún,0,1,A,CAF,Ronda 2
+13/10/2023,Nigeria,Sao Tome,6,0,H,CAF,Ronda 2
+13/10/2023,Senegal,Sudan,4,0,H,CAF,Ronda 2
+13/10/2023,Egipto,Guinea Bissau,4,3,H,CAF,Ronda 2
+13/10/2023,Costa de Marfil,Rwanda,3,1,H,CAF,Ronda 2
+13/10/2023,Marruecos,Tanzania,3,0,H,CAF,Ronda 2
+13/10/2023,Camerún,Mauricio,3,0,H,CAF,Ronda 2
+17/10/2023,Sao Tome,Nigeria,0,2,A,CAF,Ronda 2
+17/10/2023,Sudan,Senegal,0,3,A,CAF,Ronda 2
+17/10/2023,Guinea Bissau,Egipto,0,2,A,CAF,Ronda 2
+17/10/2023,Rwanda,Costa de Marfil,0,1,A,CAF,Ronda 2
+17/10/2023,Tanzania,Marruecos,0,1,A,CAF,Ronda 2
+17/10/2023,Mauricio,Camerún,0,3,A,CAF,Ronda 2
+15/11/2023,Nigeria,South Africa,1,1,D,CAF,Ronda 2
+15/11/2023,Senegal,Togo,2,0,H,CAF,Ronda 2
+15/11/2023,Egipto,Burkina Faso,1,1,D,CAF,Ronda 2
+15/11/2023,Costa de Marfil,Seychelles,4,0,H,CAF,Ronda 2
+20/11/2023,Cameroon,Namibia,3,0,H,CAF,Ronda 2
+07/09/2023,Fiji,Papua New Guinea,1,0,H,OFC,Fase de Grupos
+07/09/2023,Solomon Islands,Vanuatu,2,1,H,OFC,Fase de Grupos
+07/09/2023,New Caledonia,Tahiti,0,0,D,OFC,Fase de Grupos
+07/09/2023,Samoa,Cook Islands,3,0,H,OFC,Fase de Grupos
+10/09/2023,Papua New Guinea,Solomon Islands,1,1,D,OFC,Fase de Grupos
+10/09/2023,Vanuatu,New Caledonia,0,2,A,OFC,Fase de Grupos
+10/09/2023,Tahiti,Samoa,2,0,H,OFC,Fase de Grupos
+10/09/2023,Cook Islands,Fiji,0,4,A,OFC,Fase de Grupos
+13/09/2023,Fiji,Solomon Islands,2,0,H,OFC,Fase de Grupos
+13/09/2023,Papua New Guinea,Vanuatu,3,1,H,OFC,Fase de Grupos
+13/09/2023,New Caledonia,Samoa,1,0,H,OFC,Fase de Grupos
+13/09/2023,Tahiti,Cook Islands,5,0,H,OFC,Fase de Grupos
+08/10/2023,Fiji,New Caledonia,1,1,D,OFC,Semifinal
+08/10/2023,Tahiti,Papua New Guinea,0,2,A,OFC,Semifinal
+11/10/2023,New Caledonia,Papua New Guinea,1,2,A,OFC,Final
+12/10/2023,New Zealand,Papua New Guinea,4,0,H,OFC,Final Regional
+15/10/2023,Papua New Guinea,New Zealand,0,3,A,OFC,Final Regional
